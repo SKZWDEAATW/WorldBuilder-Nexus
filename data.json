@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Elaria",
+        "genre": "Fantasy",
+        "description": "Magical woodlands",
+        "regions": [
+            {
+                "name": "Visur",
+                "type": "Enchanted woods",
+                "description": "Nature rules",
+                "climate": "Temperate",
+                "rules": "The only laws are the laws of nature",
+                "map_x": 244,
+                "map_y": 799,
+                "image_url": null
+            },
+            {
+                "name": "Luminaria",
+                "type": "Mystic Realm",
+                "description": "A land of breathtaking beauty, where magical creatures roam free and the air is filled with an ethereal glow.",
+                "climate": "Temperate",
+                "rules": "1. All magical creatures are considered noble and deserving of respect. 2. The use of magic is encouraged, but must be done in a responsible and considerate manner. 3. Visitors are welcomed, but must follow the rules of the realm and show deference to its inhabitants.",
+                "map_x": 446,
+                "map_y": 575,
+                "image_url": null
+            },
+            {
+                "name": "Aethereia",
+                "type": "City",
+                "description": "A vibrant metropolis known for its bustling marketplaces and exotic wares, Aethereia is a crossroads of cultures and commerce.",
+                "climate": "Humid Subtropical",
+                "rules": "The city operates on a strict day-night cycle, with marketplaces open from dawn till dusk. All non-essential trade occurs during these hours. After sundown, only authorized personnel are allowed in the marketplace.",
+                "map_x": 358,
+                "map_y": 471,
+                "image_url": null
+            },
+            {
+                "name": "Crimson Mire",
+                "type": "Wetlands",
+                "description": "A treacherous and breathtakingly beautiful region where the land is shrouded in a perpetual crimson haze. The air is thick with the sweet scent of blooming flowers, but beware, for many of these blooms are poisonous.",
+                "climate": "Tropical",
+                "rules": {
+                    "Navigating the Mire": "Travelers must navigate through the dense, crimson-hued vegetation, avoiding deadly traps set by the native wildlife and poisonous flora.",
+                    "Flora and Fauna": "The plants and animals within the Crimson Mire are highly toxic and can be deadly if ingested or touched.",
+                    "Crimson Blooms": "The rare, vibrant blooms found throughout the Mire are highly sought after for their beauty and supposed medicinal properties. However, handling them without proper protection can be fatal.",
+                    "Mireborn Creatures": "The native creatures of the Crimson Mire, such as the giant, carnivorous flowers and the venomous, flying creatures, are highly aggressive and will attack without warning."
+                },
+                "map_x": 619,
+                "map_y": 325,
+                "image_url": "concept_art/Crimson_Mire.png"
+            }
+        ]
+    }
+]
